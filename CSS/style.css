@@ -42,3 +42,22 @@ h1{
     
 }
 
+p{
+    font-size: 2vw;
+    color:#32c4af;
+    font-family: 'helvetica', sans-serif;
+    font-variant: small-caps;
+    text-shadow:0cap;
+    text-align: center;
+}
+.Info img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 20vw;
+    padding: 1vh;
+    border: 10px solid #10d167;
+    border-radius: 10px;
+
+}
