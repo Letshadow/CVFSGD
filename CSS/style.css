@@ -29,7 +29,7 @@ body{
     vertical-align: middle;
 
 }
-.MenuPPL a:hover,.MenuPPL img:hover,.MenuPPL a.Actual,.MenuPPL img.Actual{
+.MenuPPL a:hover,.MenuPPL a.Actual{
     background-color: #10d167;
 }
 h1{
@@ -42,13 +42,16 @@ h1{
     
 }
 
-p{
+p,ul{
     font-size: 2vw;
     color:#32c4af;
     font-family: 'helvetica', sans-serif;
     font-variant: small-caps;
     text-shadow:0cap;
-    text-align: center;
+    text-align: justify;
+    padding-top: 3vw;
+    padding-left: 5vw;
+    padding-right: 5vw;
 }
 .Info img{
     display: block;
