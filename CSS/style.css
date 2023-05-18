@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 body{
     /*quitar bordes */
@@ -6,8 +5,35 @@ body{
     padding: 0;
     background-color:#101c34;
 }
+.MenuPPL{
+    width: 100vw;
+    height:8vw;
+    background-color: #191925;
 
+}
+.MenuPPL img{
+    vertical-align:middle;
+    width: auto;
+    height: 4.2vw;
+    padding-top: 1vw;
+    padding-bottom: 5.5vw;
+}
+.MenuPPL a{
+    padding:2.8vw 1vw;
+    color:beige;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    font-size: 4.2vw;
+    font-weight: bolder;
+    text-decoration: none;
+    vertical-align: middle;
+
+}
+.MenuPPL a:hover,.MenuPPL img:hover,.MenuPPL a.Actual,.MenuPPL img.Actual{
+    background-color: #10d167;
+}
 h1{
+    font-size: 7vw;
     color:#d4544c;
     font-family: 'Bebas Neue', sans-serif;
     font-variant: small-caps;
@@ -15,3 +41,4 @@ h1{
     text-align: center;
     
 }
+
